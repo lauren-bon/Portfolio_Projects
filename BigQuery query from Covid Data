@@ -1,4 +1,6 @@
-A query that was written in BigQuery to dive into the covid dataset located here: https://ourworldindata.org/covid-deaths
+A  SQL query I wrote using Google's BigQuery to perform an exploratory data analysis on the covid dataset located here: https://ourworldindata.org/covid-deaths
+
+The findings from this analysis was used to create a dashboard on tableau which can be accessed here : https://public.tableau.com/views/CovidDashboard_17095732395740/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 SELECT 
   location,
